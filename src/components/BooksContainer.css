@@ -1,0 +1,21 @@
+.bookCard{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.899);
+    color: rgb(255, 255, 255);
+}
+
+.bookCard>div{
+    padding-bottom: 10%;
+}
+
+.titleBook{
+    font-size: 20px;
+    align-self: center;
+}
+
+img{
+    width: 80%;
+    border-radius: 15px;
+}
